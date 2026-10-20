@@ -44,6 +44,13 @@ The skill is tuned for:
 - [Faucet CLI docs](https://docs.zeko.io/developers/tools/faucet-cli)
 - [Skills docs](https://skills.sh/docs)
 
+## License
+
+Zeko-authored skills and documentation in this repository are licensed under
+the Apache License, Version 2.0. See [LICENSE](./LICENSE).
+
+Third-party content, if any, remains under its own license and notices.
+
 ## Update Or Remove
 
 ```bash
